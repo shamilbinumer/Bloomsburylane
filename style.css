@@ -449,10 +449,10 @@ select:focus {
     .custom-work-section {
         padding: 1.5rem;
         background-image: linear-gradient(rgba(0, 0, 0, 0.500), rgba(0, 0, 0, 0.500)), url(./Images/Rectangle\ 154-mobile.png);
-        h1{
-            font-size: 40px !important;
-            
-        }
+    }
+    .custom-work-section h1{
+        font-size: 40px !important;
+
     }
 }
 
