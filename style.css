@@ -8,11 +8,19 @@
 select:focus {
     outline: none;
 }
+select{
+    border: none;
+}
 
 .mobile-navbar {
     display: none;
 }
-
+.navbar-nav{
+    text-align: center;
+}
+.mobile-select{
+    margin: auto;
+}
 /* ------------------------------------header----------------------------- */
 .first-header {
     width: 100%;
